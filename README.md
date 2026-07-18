@@ -1,8 +1,7 @@
-## LJA
+## Lilja Kiiski
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liljakiiski&layout=compact&langs_count=7" />
+Greetings! I'm Lilja, an undergraduate Electrical Engineering student @Purdue University.
 
-This is Lilja's GitHub page.
 ### Recent projects
 🐝 [Honeycomb Game Console](https://github.com/liljakiiski/honeycomb-game-console) [Arduino]
 
