@@ -3,6 +3,7 @@
 Greetings! I'm Lilja, an undergraduate Electrical Engineering student @Purdue University.
 
 ### Recent projects
-🐝 [Honeycomb Game Console](https://github.com/liljakiiski/honeycomb-game-console) [Arduino]
+🌐 [My Website](liljakiiski.github.io) [HTML/CSS/JS]
 
-✏️ [Schoology Classmates](https://github.com/liljakiiski/schoology-classmates) [JavaScript]
+⚡ [4-Bit Carry-Save Adder](https://liljakiiski.github.io/4bitcsa.html) [SystemVerilog]
+
